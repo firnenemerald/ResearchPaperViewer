@@ -1,0 +1,7 @@
+rectionality of activity interactions. (A) Representative time-frequencygram
+of GCA during the task in monkey R.Time alignment is the same as in Fig. 1D. Causal
+information flow from the NAc to M1 of each stage (upper panels) and from M1 to
+the NAc (lower panels) is shown. (B) GCA population data from the NAc to M1 (left
+panel) and from M1 to the NAc (right panel) during the task, obtained across all recordings in two monkeys (T and R). The number means the total
+number of experimental days across the two monkeys. Shading indicates the SEM. (C) GCA networks. The x and y axes are the source and sink of
+information, respectively.
